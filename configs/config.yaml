@@ -1,0 +1,13 @@
+random_state: 42
+k_min: 2
+k_max: 10
+selected_k: null
+
+paths:
+  raw_data: data/raw/Mall_Customers.csv
+  processed_data: data/processed/customers_processed.csv
+  model: models/customer_segmentation_kmeans.joblib
+  scaler: models/customer_scaler.joblib
+  results: reports/cluster_results.csv
+  profiles: reports/cluster_profiles.csv
+  figures: reports/figures
