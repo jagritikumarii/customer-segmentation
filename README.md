@@ -211,3 +211,5 @@ The project uses the **Mall Customers** dataset, a commonly used educational cus
 ## Limitations
 
 K-Means assumes roughly spherical clusters and is sensitive to feature scaling and the selected number of clusters. Segments should therefore be interpreted as analytical groupings rather than absolute customer identities.
+
+Intern ID : CITS9093
